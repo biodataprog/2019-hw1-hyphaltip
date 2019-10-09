@@ -1,5 +1,5 @@
 # 2019_hw1_template
-2019 Homework Homework 1
+2019 Homework Homework 1 -- By Jason
 
 1. Write a script called `download_count.sh` which does the following.
    * Download the data file from this URL ftp://ftp.ncbi.nih.gov//blast/db/FASTA/vector.gz from NCBI using a tool like curl, wget
